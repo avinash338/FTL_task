@@ -32,11 +32,11 @@ A Simple React Application that allows an end-user to select a member to check t
 
 #### Installation
 
-- Copy the git repo link : **strong**https://github.com/surya1337gkrm/FTL_task**strong**
-- Go to terminal and execute **strong**git clone https://github.com/surya1337gkrm/FTL_task**strong** to clone the repository in to your local machine.
+- Copy the git repo link : **https://github.com/surya1337gkrm/FTL_task**
+- Go to terminal and execute **git clone https://github.com/surya1337gkrm/FTL_task** to clone the repository in to your local machine.
 - Go to the repo path.
-- Execute the **strong**npm i**strong** command to install all the dependencies.
-- Execute the **strong**npm start**strong** command to run the project at localhost.
+- Execute the **npm i** command to install all the dependencies.
+- Execute the **npm start** command to run the project at localhost.
 
 [Back To The Top](#ftl-react-task)
 
