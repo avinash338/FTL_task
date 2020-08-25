@@ -84,11 +84,11 @@ class Modal extends Component {
                   <span style={{color: "blue"}}>{selectedDate}</span>
                 </h5>
                 <p>
-                  Start Time :{" "}
+                  <b>Start Time</b> :{" "}
                   {activeSession[0].start_time.replace(selectedDate, "")}
                 </p>
                 <p>
-                  End Time :{" "}
+                  <b>End Time</b> :{" "}
                   {activeSession[0].end_time.replace(selectedDate, "")}
                 </p>
                 <br />
@@ -98,7 +98,8 @@ class Modal extends Component {
                 <h5>
                   No Active Session found for{" "}
                   <span style={{color: "red"}}>{selectedDate}</span>
-                </h5><br/>
+                </h5>
+                <br />
               </div>
             ) : null}
             <button className="ui negative button" onClick={this.handleClick}>
