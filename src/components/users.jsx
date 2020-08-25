@@ -24,9 +24,10 @@ class Users extends Component {
   render() {
     const {data} = this.props;
     const {userData} = this.state;
-   
+
     return (
-      <div>
+      <div style={{textAlign: "center", paddingTop: "20px"}}>
+        <h4>List of Users</h4>
         <select
           name="selectedUser"
           onChange={this.handleChange}

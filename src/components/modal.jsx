@@ -55,16 +55,16 @@ class Modal extends Component {
         onClick={this.handleClick}
       >
         <div
+          style={{width: "50%"}}
           className="ui standard modal visible active"
           onClick={(e) => e.stopPropagation()}
         >
           <div className="header">{userdata.real_name}</div>
-
           <div className="content">
             <div className="ui calendar" id="example1">
               <label htmlFor="date">
                 <h5>
-                  Select a date to check an{" "}
+                  Select a date to check for an{" "}
                   <span style={{color: "blue"}}>Active Session</span>
                 </h5>
               </label>
@@ -102,9 +102,12 @@ class Modal extends Component {
                 <br />
               </div>
             ) : null}
-            <button className="ui negative button" onClick={this.handleClick}>
+            <button
+              className="ui mini right floated red button"
+              onClick={this.handleClick}
+            >
               CLOSE
-            </button>
+            </button><br/>
           </div>
         </div>
       </div>,
