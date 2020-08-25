@@ -49,7 +49,7 @@ npm start
 ## References
 
 - Semantic UI - [semantic UI Documentation](https://semantic-ui.com/introduction/getting-started.html)
-- JSON data - [Json Data](https://drive.google.com/open?id=1xZa3UoXZ3uj2j0Q7653iBp1NrT0gKj0Y)
+- JSON data - [Json Data](http://localhost:3001/members)
 - Writing a README.md file - [youtube](https://www.youtube.com/watch?v=eVGEea7adDM&t=333s)
 
 [Back To The Top](#ftl-react-task)
