@@ -2,13 +2,11 @@
 
 <!-- ![Project Image](project-image-url) -->
 
-> A Simple React Application that allows an end-user to select a member to check the active sessions of that particulae member on a specific date.
+> A Simple React Application that allows an end-user to select a member to check the active sessions of that particular member on a specific date.
 
 ---
 
 ### Table of Contents
-
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -40,15 +38,14 @@ A Simple React Application that allows an end-user to select a member to check t
 - Execute the **strong**npm i**strong** command to install all the dependencies.
 - Execute the **strong**npm start**strong** command to run the project at localhost.
 
-#### API Reference
-
-Fake API created using **strong**JSON-Server**strong**
-
 [Back To The Top](#ftl-react-task)
 
 ---
 
 ## References
+
+- Semantic UI - [semantic UI Documentation](https://semantic-ui.com/introduction/getting-started.html)
+- JSON data - [Json Data](https://drive.google.com/open?id=1xZa3UoXZ3uj2j0Q7653iBp1NrT0gKj0Y)
 
 [Back To The Top](#read-me-template)
 
